@@ -1,35 +1,34 @@
-# 👋 Hey, I'm **UXImprover**
+<h1 align="center">Hey, I'm UXImprover 👋</h1>
 
-💻 Script & Web Developer • 🇺🇸 U.S. Student • 🛠 Learning Java, C#, TypeScript  
-
----
-
-## 🧠 About Me
-
-Hi! I'm a student from the United States.  
-I enjoy writing scripts and building simple (and sometimes weird) websites.  
-Currently collaborating with a Russian service — just because... why not.  
-I love turning random ideas into reality and pushing my limits with new tech.
+<p align="center">
+  💻 Script & web dev • 🇺🇸 Student • 🛠 Learning Java, C#, TypeScript
+</p>
 
 ---
 
-## 🧰 Tech Stack
+### 🧠 About me
 
-- 💡 HTML / CSS / JavaScript  
-- 🐍 Python  
-- ☕ Currently learning: **Java**, **C#**, **TypeScript**
+- I'm a student from the U.S.
+- I write scripts, and sometimes websites.
+- Currently working with a Russian service (just because, why not).
+- I love building whatever comes to my mind.
+
+### 🧰 Tech Stack
+
+- 💡 HTML, CSS, JavaScript
+- 🐍 Python
+- ☕ Learning Java, C#, TypeScript
+
+### 🛸 Currently
+
+- Improving my skills and messing with fun ideas.
+- Projects coming soon...
 
 ---
 
-## 🚀 Currently
+<!-- GitHub stats badge section -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=UXImprover&show_icons=true&theme=tokyonight" />
+</p>
 
-🛸 Improving my skills  
-🔧 Experimenting with fun, chaotic projects  
-📦 New stuff coming soon...
-
----
-
-## 🌐 Website
-
-[👉 uximprover.netlify.app](https://uximprover.netlify.app/)
-
+my web site https://uximprover.netlify.app/
