@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hey, I'm UXImprover 👋
 
-<!--
-**UXImprover2/UXImprover2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Script & web dev • 🇺🇸 Student • 🛠 Learning Java, C#, TypeScript
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About me
+
+I'm a student from the U.S.  
+I write scripts, and sometimes websites.  
+Currently working with a Russian service (just because, why not).  
+I love building whatever comes to my mind.
+
+---
+
+## 🧰 Tech Stack
+
+- 💡 HTML, CSS, JavaScript  
+- 🐍 Python  
+- ☕ Learning Java, C#, TypeScript  
+
+---
+
+## 🛸 Currently
+
+Improving my skills and messing with fun ideas.  
+Projects coming soon...
+
+---
+
+🌐 [My Website](https://uximprover.netlify.app/)
