@@ -31,4 +31,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=UXImprover&show_icons=true&theme=tokyonight" />
 </p>
 
-my web site https://uximprover.netlify.app/
+my web site https://uximprover2.netlify.app/
