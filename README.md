@@ -25,6 +25,7 @@
 - Projects coming soon...
 
 ---
+<p align="center">
   <picture align="center" height="200em">
     <source 
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=UXImprover2&layout=compact&theme=dark&hide=markdown"
